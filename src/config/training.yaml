@@ -1,0 +1,6 @@
+train: ../../data/train/images
+val: ../../data/valid/images
+test: ../../data/test/images
+
+nc: 10
+names: ['8-ball', '9-ball', 'blue', 'brown', 'green', 'pink', 'purple', 'que-balls', 'red', 'yellow']

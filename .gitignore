@@ -1,0 +1,29 @@
+# Large image datasets (keep small samples)
+data/
+
+runs/
+weights/
+*.weights
+yolo_training_logs/
+
+
+# Config files with secrets
+config/secrets.yaml
+config/api_keys.yaml
+*.secret
+
+# Python virtual environments
+venv/
+.venv/
+.env/
+env/
+
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.db
+*.sqlite3
+*.log
