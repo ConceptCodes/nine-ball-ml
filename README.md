@@ -44,6 +44,10 @@ Overall, the model demonstrates strong performance in detecting pool balls, achi
 Addressing these issues will involve expanding the dataset with more varied examples and experimenting with additional data augmentation techniques. Continuous evaluation and iterative improvements will help enhance the model's robustness in real-world scenarios.
 
 
+
+https://github.com/user-attachments/assets/03a97bc3-bf79-4185-8b78-1653671350ae
+
+
 ### 3. Model Inference
 **Video and Image Processing**: The trained model can be used to detect pool balls in both video files and images. The detection process involves:
 - **Loading the Model**: The trained YOLOv11 model is loaded into memory.
