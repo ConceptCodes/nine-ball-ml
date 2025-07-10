@@ -25,7 +25,7 @@ class PoolBallDetector:
             confidence: Default confidence threshold
         """
         if model_path is None:
-            model_path = "runs/detect/pool-ball-detection/weights/best.pt"
+            model_path = "runs/detect/pool-ball-detection3/weights/best.pt"
 
         self.model_path = model_path
         self.confidence = confidence
